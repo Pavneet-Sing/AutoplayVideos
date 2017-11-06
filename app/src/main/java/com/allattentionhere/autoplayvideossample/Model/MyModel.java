@@ -21,7 +21,6 @@ public class MyModel {
     }
 
     public MyModel(String name) {
-        this.image_url=null;
         this.name = name;
     }
 
